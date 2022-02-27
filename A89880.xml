@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Independencie no schisme. Or, An answer to a scandalous book, entituled, The schismatick sifted: written by Mr. John Vicars. Which may serve also for a reply to Master Edwards his Gangræna. Wherein is discovered the vanity of those unjust slanders cast upon the dissenting brethren, whom they call Independents. With some hints added about gospel-government. / By M.N. med. pr.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89880</idno>
+            <idno type="STC">Wing N391</idno>
+            <idno type="STC">Thomason E344_24</idno>
+            <idno type="STC">ESTC R200974</idno>
+            <idno type="EEBO-CITATION">99861576</idno>
+            <idno type="PROQUEST">99861576</idno>
+            <idno type="VID">113714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113714)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Independencie no schisme. Or, An answer to a scandalous book, entituled, The schismatick sifted: written by Mr. John Vicars. Which may serve also for a reply to Master Edwards his Gangræna. Wherein is discovered the vanity of those unjust slanders cast upon the dissenting brethren, whom they call Independents. With some hints added about gospel-government. / By M.N. med. pr.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rob. White.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M.N. = Marchamont Nedham.</note>
+                  <note>A reply to: Vicars, John. The schismatick sifted (Wing V326) and to: Edwards, Thomas.  Gangræna (Wing E228).</note>
+                  <note>Annotation on Thomason copy: "July 16th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vicars, John, 1579 or 80-1652. --  Schismatick sifted --  Early works to 1800.</term>
+               <term>Edwards, Thomas, 1599-1647. --  Gangræna --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113714:1"/>
+            <pb facs="tcp:113714:1" rendition="simple:additions"/>
+            <p>INDEPENDENCIE NO SCHISME.</p>
+            <p>
+               <hi>Or,</hi> An Anſwer to a Scandalous Book, entituled, <hi>The Schiſmatick ſifted:</hi> Written by Mr. JOHN VICARS.</p>
+            <p>Which may ſerve alſo for a Reply to Maſter EDWARDS his
+<hi>Gangraena.</hi>
+            </p>
+            <p>Wherein is diſcovered the vanity of thoſe unjuſt Slanders caſt upon the Diſſenting Brethren, whom they call
+<hi>Independents.</hi>
+            </p>
+            <p>
+               <hi>With ſome Hints added about</hi> Goſpel-Government.</p>
+            <p>
+               <hi>By</hi> M. N. <hi>Med. Pr.</hi>
+            </p>
+            <q>
+               <bibl>2 Cor. 13. 6, 7, 8, 9.</bibl>
+               <p>I truſt ye ſhall know that we are not Reprobates. Now I pray to God, that ye do no evil; not that we ſhould appeare ap<g ref="char:EOLhyphen"/>proved, but that ye ſhould do that which is honeſt, though we be as reprobates: For we do nothing againſt the Truth, but for the Truth. For we are glad when we are weak, and ye are ſtrong; and this alſo we wiſh, even your perfection.</p>
+            </q>
+            <q>
+               <bibl>Epheſ. 4. 25.</bibl>
+               <p>Wherefore putting away lying, ſpeak every man truth with his neighbour, for we are members one of another.</p>
+            </q>
+            <p>London, Printed for <hi>Rob. White.</hi> 1646.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:113714:2"/>
+            <pb facs="tcp:113714:2"/>
+            <head>To Maſter VICARS.</head>
+            <opener>
+               <salute>Mr. Vicars,</salute>
+            </opener>
+            <p>YOu may mean well, but you write ill, and (as pious acute Mr.
+<hi>Saltmarſh</hi>
+               <note n="*" place="margin">Sha<g ref="char:EOLhyphen"/>dowes flying away.</note> ſayes of Mr. <hi>Gataker</hi>) me thinks your Expreſſions have too much of that which <hi>Sole<g ref="char:EOLhyphen"/>mon</hi> cals <hi>frow ardneſſe</hi> in <hi>old men.</hi> Alas, Sir, I cannot imagine you are yet out of your <hi>Horn-book</hi> in
+<hi>Divinity,</hi> that expreſſe ſo little <hi>Logick</hi> in your writings; and therefore you may do well to be ſilent, and let the
+<hi>Anakims</hi> of the <hi>Presbyterie,</hi> the tall <hi>S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pbiſters,</hi> take the task upon them, and not let your Cauſe ſuffer by railing inconcluſive Notions, which have no more to underprop them, but your own <hi>Ipſe dixi.</hi>
+            </p>
+            <p>But I obſerve you write much, which is the reaſon I thought fit to waſte a few houres, that men of underſtand<g ref="char:EOLhyphen"/>ing may not gaze any mor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after
+<hi>Paper-kites</hi> of your make<g ref="char:EOLhyphen"/>ing: And ſo reſolved to fall to
+<hi>ſifting</hi> that Book which you call, the <hi>Schiſmatick ſifted,</hi> &amp;c. that in a little, may be diſcovered the vanity of all the reſt of your Pamphlets. And verily, if there had been as little
+<hi>malice</hi> as <hi>wiſedome,</hi> and no more <hi>falſhood</hi> than
+<hi>reaſon</hi> in it, it had been paſſed with as much <hi>neglect</hi> as is due to <hi>folly:</hi> But when you, one of the <hi>ſimplicity</hi> of your heart, begin to caſt <hi>dirt</hi> in the faces of the moſt
+<hi>illuminated</hi> and eminent <hi>Saints</hi> and ſervants of
+<hi>Chriſt,</hi> and like a giddy <hi>Animal</hi> paddle and rake in the
+<hi>ken<g ref="char:EOLhyphen"/>nel</hi> of <hi>Slander,</hi> to aſperſe or quench the moſt excellent <hi>Lights;</hi> 'Tis time to <hi>bray</hi> you, for your fooliſhneſſe, in a <hi>Mortar,</hi> hoping you are not paſt Cure of the
+<hi>Peſtle.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113714:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>HAve a little patience; for I muſt needs throw away ſome
+<hi>Ink</hi> upon this <hi>Paper-worme,</hi> this great benefa<g ref="char:EOLhyphen"/>ctor to the Magazine of <hi>waſte paper.</hi>
+            </p>
+            <p>As a further explanation of his mind, he cals his
+<hi>Pam<g ref="char:EOLhyphen"/>phlet</hi> by another Name: <hi>The Picture of</hi> Independents
+<hi>freſhly and fairly waſht over again, wherein the Sectaries, the principall ſeducers to that dangerous and ſubtile ſchiſme of Inde<g ref="char:EOLhyphen"/>pendencie, are lively ſet forth, &amp;c.</hi>
+            </p>
+            <p>That you may know whom he means by the <hi>principall Sectaries</hi> and <hi>Seducers,</hi> &amp;c. he places theſe Names follow<g ref="char:EOLhyphen"/>ing in the Front:</p>
+            <list>
+               <item>Maſter <hi>William Greenhill.</hi>
+               </item>
+               <item>Maſter <hi>Thomas Goodwin.</hi>
+               </item>
+               <item>Maſter <hi>Philip Nye.</hi>
+               </item>
+               <item>Maſter <hi>William Bridge.</hi>
+               </item>
+               <item>Maſter <hi>Ieremiah Burroughs.</hi>
+               </item>
+               <item>Maſter <hi>Sydrach Sympſon.</hi>
+               </item>
+               <item>Maſter <hi>William Carter.</hi>
+               </item>
+            </list>
+            <p>Men of <hi>excellent Gifts, abſolute Integrity,</hi> and
+<hi>profound Know<g ref="char:EOLhyphen"/>ledge</hi> in the <hi>myſteries</hi> of <hi>God</hi> in
+<hi>Chriſt,</hi> yet here blotted in his pernicious Pamphle: with the worſt of <hi>ſlanders;</hi> whom to vindicate were in a manner to wrong them, their known perfections ſoaring above the reach of <hi>impious ſcandal.</hi>
+            </p>
+            <p>By <hi>waſhing over again,</hi> you muſt underſtand that Mr.
+<hi>Vi<g ref="char:EOLhyphen"/>cars</hi> drew a <hi>Picture</hi> of the <hi>Independents</hi> not long ſince, which he now <hi>waſhes</hi> over again, and he (good man) thinks he hath done very well: yet ſure he is but an ill <hi>Picture<g ref="char:EOLhyphen"/>drawer</hi> that needs <hi>Spectacles,</hi> and borrows <hi>deceitfull Colours</hi> from others, as Mr. <hi>Vicars</hi> doth, whom I will now preſent to you in his own
+<hi>picture,</hi> with every <hi>lineament</hi> of his <hi>folly.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:113714:3"/>
+            <head>Independencie no Schiſme.</head>
+            <div type="point">
+               <head>Maſter VICARS.</head>
+               <p>
+                  <q rend="margQuotes">THat ill weeds grow apace in Gods garden the Church, through the impunity, and intolerable Toleration of Sectaries &amp; Schiſ<g ref="char:EOLhyphen"/>maticks. 2. That ſince they cry out for liberty of conſcience, it is more lawfull for him to uſe liberty of ſpeech, with chriſtian moderation. 3. That Independencie is a moſt dangerous ſchiſme, and that the door of Independents hangs upon two hinges, Hope of impunity, and a continued good opinion even among the Presby<g ref="char:EOLhyphen"/>terian party. 4. That they love to live Salamander like, in the fire of hot diſputes.</q>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the firſt, [That ill weeds grow apace in Gods garden, by tole<g ref="char:EOLhyphen"/>ration, &amp;c.] Let the Church (the garden of God) be once furniſhed with true genuine plants, I mean ſuch only as our heavenly Father hath planted by divine inſtitution: Let ſuch a Government be ſet up, as is only according to the will and appointment of Jeſus Chriſt, and there can be no fear of prejudice by a toleration of divers Opinions: If the work be of God, if a Church way be founded upon the impreg<g ref="char:EOLhyphen"/>nable rock Chriſt, nothing can overthrow it, not the gates of hell can prevaile againſt it. There was no noiſe made in building Solomons temple, and why ſhould we make tumults and perſecutions in build<g ref="char:EOLhyphen"/>ing up the temple of Chriſt, whoſe temple we are? Let men be left to the power of the Word, and if they be not convinced by its mighty working, if they be given over to ſtrong deluſions, not all the prin<g ref="char:EOLhyphen"/>cipalities and policies under heaven can reduce them: the Goſpel is the goſpel of peace, and we have no warrant thence to deal otherwiſe with men, then in a way of Peace, and Goſpel power.</p>
+                  <p>Secondly, Mr. <hi>Vicars,</hi> we do allow there are Sectaries, Schiſmaticks, and Hereticks in the Church of God, for ſuch the Apoſtle ſayes there <pb n="2" facs="tcp:113714:4"/> will be among us, and I believe now are; and whether it be not bet<g ref="char:EOLhyphen"/>ter to leave their converſion to the power of the Word, than to cudgel and whip them to it, I leave thoſe who know any thing of goſpel proceedings, to judge: But in the mean time will you call all that are not of your own opinion, ſuch, even thoſe of the moſt mo<g ref="char:EOLhyphen"/>derate Diſſenters? muſt they be markt with a black coal, by wiſe Mr.
+<hi>Vicars,</hi> for ſectaries and ſchiſmaticks, and their names thus beſpattered in Print, which (for ought he knowes) may be written fair in the Book of life?</p>
+                  <p>Thirdly, I obſerve there is a great noiſe made of Schiſme here a<g ref="char:EOLhyphen"/>mong us: Thus the Papiſts charged the Proteſtants with ſchiſme upon <hi>Luthers</hi> Reformation, and a long time after, till the ſlander became as thredbare, as the proofs of it were weak. Juſt ſo now deal the Presby<g ref="char:EOLhyphen"/>terians with their brethren, whom they nickname Independents: and whoſoever traces Eccleſiaſtical hiſtory, ſhall find it hath ever been Satans policie, upon any irradiations of Divine light, immediately to brand it for ſchiſme; which is the main reaſon why Reformation hath been ſo often near the birth, and yet not ſtrength to bring it forth. I am perſwaded, though we ſhould hear a voice from heaven as <hi>Iohn</hi> did, ſaying, <hi>Come out of her my people,</hi> yet the Devil would beg leave to be a lying ſpirit in the mouths of ſome, to brand them for ſchiſmaticks.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> To the ſecond, [That ſince they cry out for liberty of conſcience, it is more lawfull for him to uſe liberty of ſpeech, with chriſtian mo<g ref="char:EOLhyphen"/>deration.] Then let your moderation be known to all men, leave off your nick-names and by words of your brethren: Truth gains nothing by ill language; I wiſh all of your mind would conſider it, and not let this liberty of tongue in them become a ſtumbling block to any, or grieve the hearts of their Brethren: Ye which look for Peace and Truth, muſt firſt uſe Moderation: were there but any Chriſtian mo<g ref="char:EOLhyphen"/>deration, there would be neither cry, nor groan for Liberty.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the third, [that Independencie is a moſt dangerous ſchiſme, and hangs upon two hinges, hope of impunity, and the good opinion which ſome Presbyterians have of them of that way.] I would fain have ſome of theſe <hi>Furioſo's</hi> tell us wherein Independencie (as they call it) deſerves the name of ſchiſme: If <hi>Luthers</hi> departing from Popery was no ſchiſme; if the firſt Reformation in <hi>England</hi> was no ſohiſme; if the Presbyterians late departing from the Prelacie was no ſchiſme, but were all degrees of Reformation in their times: how
+<pb n="3" facs="tcp:113714:4"/> comes it then that this more ſpirituall Church-way of Independents which aims at a yet more perfect reformation, ſhould beare an impu<g ref="char:EOLhyphen"/>tation of ſchiſme, more than the other? At preſent, Satan may en<g ref="char:EOLhyphen"/>deavour to blaſt it with the name of ſchiſme, as he did former Refor<g ref="char:EOLhyphen"/>mations which ſucceeding years may acknowledge for the right way.</p>
+                  <p>And truly, it hath pleaſed God to ſtir up mens hearts wonderfully at preſent, to ſearch the Scriptures themſelves, to take upon them to queſtion, reaſon caſes, and <hi>try ſpirits,</hi> and not to pin their ſoules and underſtandings upon Presbyters ſleeves now, as they were wont to do upon the Prelates: And if this courſe were a little more uſuall among Chriſtians, all well-meaning Presbyterians would ſoon have a good opinion of that way; and then what Hinges ſoever Independents hang on,
+'tis probable others may be quite off the Hooks.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> To the fourth, [That they love to live, Salamander-like, in the fire of hot diſputes.] Better ſo, than (Salamander-like) in the fire of perſecution. As long as there is Scripture-reaſon, truth will never want a champion: I do not mean in vain logical or philoſophical reaſoning, which is meer fooliſhnes in reference to the things of God, though yet in that way we dare hold up an Argumentative buckler againſt the moſt <hi>Mercurial Sophiſters</hi> of this age.</p>
+               </div>
+            </div>
+            <div type="point">
+               <head>Mr. <hi>VICARS.</hi>
+               </head>
+               <p>
+                  <q rend="margQuotes">That Independents preach ſound doctrine, yet intermixe the un<g ref="char:EOLhyphen"/>ſound leven of falſe opinions, witneſſe their pleas for a toleration of all opinions, and liberty of conſcience.</q>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If to teach, that variety of Opinions ought not to break the Vnity of the ſpirit, be unſound leven; why then doth the Apoſtle preſſe this duty, notwithſtanding outward differences? But as for a tolera<g ref="char:EOLhyphen"/>tion of all opinions, I ſuppoſe no diſcreet man will charge this upon their Brethren: for we yield not to errors in Goſpel-principles, only we can ſee no reaſon why mens conſciences ſhould be burdened with outward ordinances, or that they ſhould be bound to this or that opinion in carnal formalities, which they cannot be perſwaded of, and perhaps can alledge evidence from the Word for the contrary, as the caſe is with thoſe they call Anabaptiſts, Independents, Seckers, &amp;c.</p>
+               </div>
+            </div>
+            <div type="point">
+               <head>Mr. <hi>VICARS.</hi>
+               </head>
+               <p>1.
+<q rend="margQuotes">That Scripture diſcipline is the hedge, wall, or fence of Gods precious garden or vineyard. 2. That Mr.
+<hi>Edwards</hi> in his <hi>Gangrana</hi> hath ſet forth many damnable doctrines and erronious opinions of <pb n="4" facs="tcp:113714:5"/> Independents. 3. That Independents, and the reſt of the Sectaries, are like <hi>Sampſons</hi> Foxes, tyed together by the tailes. 4. That they pretend holines of life, as the Scribes and Phariſees, and afterward the hereticks did of old.</q>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the firſt, [that Scripture-diſcipline is the hedge &amp;c.] If the gar<g ref="char:EOLhyphen"/>den of the Church be ſo precious in Gods eyes<g ref="char:punc">▪</g> then 'tis ſit the fence and hedge ſhould be according to his own appointment, no gardiners or guardians placed therein, but of his own chooſing: will he not be angry, if we take upon us to thruſt in whom we pleaſe, to order the people which are Gods husbandry, after our own humour, and put in ſuch husbandmen of our own, that if God ſend a ſervant or two of his, they will perhaps deal with them, like thoſe in the 20. of
+<hi>Luke,</hi> beat them, wound, and caſt them out? Certainly, this will not be pleaſing to the Lord of the vineyard.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> To the ſecond, [that Mr. <hi>Edwards</hi> hath ſet forth in his <hi>Gangraena</hi> many damnable tenets of Independents.] Mr. <hi>Edwards</hi> indeed has been raking in the kennel, but he hath fouled himſelf moſt: Mr. <hi>Edwards</hi> is a very credulous man, and hopes every man elſe will be ſo too, and (I know) would have the world think all that he reckons up belongs to Independents: Is this your way of conqueſt, to accuſe the Brethren? this is <hi>Satans</hi> practice<g ref="char:punc">▪</g> I ſuppoſe Mr. <hi>Edwards</hi> looks to riſe as high in renown, as the old Hereſiographers <hi>Auguſtine</hi> and <hi>Epiphanius:</hi> But did they, after they had caſt up the hereſies of old aſperſe them upon any one party, as Mr. <hi>Edwards</hi> endeavours upon the diſſenting Brethren, on purpoſe to render them odious to the people? This is a weak ſhift to ſupport the Government he layes claim to.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the third, [that Independents and the other ſectaries are like <hi>Sampſons</hi> foxes, tyed together by the tails.] Indeed this is the de<g ref="char:EOLhyphen"/>ſigne, to preſent Independents, and the rabble of lewd and unwar<g ref="char:EOLhyphen"/>rantable Opinions, all under one: whether they be tyed by the tailes it matters not much, their heads are diſtant enough, and the world ſees it, till Mr. <hi>Vicars</hi> prove the contrary, all whoſe books have neither head nor taile, neither premiſes nor concluſion, but upon his own bare word and authority.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> To the fourth, [that they pretend holineſſe of life, as the Scribes and Phariſees, and Hereticks of old.] Do all ſo, or ſome few? tell us next time how many, and their names, leſt the whole ſuffer for ſome <pb n="5" facs="tcp:113714:5"/> few. Do you, and Mr.
+<hi>Edwards</hi> reſolve to take all on truſt? Are you able to judgd of the inward man? How does this agree with the <hi>new commandement</hi> which Chriſt Jeſus received of the Father, and left as his laſt legacie to his Children, that they ſhould <hi>love one another: By this</hi> (ſayes John)
+<hi>we know that we are of the Truth;</hi> Not by <hi>ſlandering the Brethren. Woe to them by wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m ſcandals come. Judge not, that ye be not judged.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="point">
+               <head>Mr. <hi>VICARS.</hi>
+               </head>
+               <p>1.
+<q rend="margQuotes">That whoſoever loves to laugh at a ſermon, let him go heare Mr. <hi>Peters</hi> preach. 2. That Mr. <hi>Iohn Goodwin</hi> wrote a late unfavory treatiſe, called <hi>Cretenſis.</hi> 3. That the <hi>Apologeticall Narration</hi> was atteſted by the Authors, only to paint out their own piety, but that it betrayes double dealing, and that their exile or baniſhment out of <hi>England</hi> was but pretended. 4. That the <hi>Apologiſts</hi> confeſſed the Parochial congregations, true churches of Chriſt; but now that <hi>Independents</hi> forſake them. 5. That the Apologiſts promiſed, nor to preach or print any thing in vindication of themſelves, or their opinions. 6. That Mr. <hi>Philip Nye</hi> is a notable Independent Polititian, and nimble Agent for the ſchiſmatical Church way. That Mr. <hi>Nye</hi> got the writing out of Mr. <hi>Calamies</hi> hands, wherein it was agreed by the Presbyterian and Independent Miniſters, and ſubſcribed, that neither ſide ſhould preach, print, diſpute, or otherwiſe act againſt each others way, till both ſides in a full meeting did declare the contrary.</q>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the firſt, [That whoſoever loves to laugh at a ſermon, let him go hear Mr. <hi>Peters.</hi>] take heed you do not blow a trumpet to draw company after him to that end, in expectation of ſport, rather than doctrine, wherein Mr. <hi>Peters</hi> is able to appear ſerious and ſound, as he lately approved himſelf in that his excellently penned <hi>Thanks<g ref="char:EOLhyphen"/>giving Sermon</hi> upon the reducing of the <hi>Weſt:</hi> And who knows not that we owe much to his ſermons, for encouraging the
+<hi>Souldiery</hi> in that admired and auſpicious Enterpriſe? Your idle
+<hi>Pamphlets</hi> (ſir) are things to laugh at, not his
+<hi>Sermons.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> To the ſecond, [that Mr. <hi>Iohn Goodwin</hi> wrote an unſavoury treatiſe called <hi>Cretenſis.</hi>] I ſay, <hi>Cretenſis</hi> was a fit title in anſwer to ſuch an unſavoury treatiſe as <hi>Gangraena,</hi> which may one day prove a fretting <hi>Cancer</hi> within the breaſt of the Author. <hi>The Cretians were alwayes lyars,</hi> as he that takes all by hear-ſay from the world muſt needs be, <pb n="6" facs="tcp:113714:6"/>
+                     <q rend="margQuotes">ſince he who is <hi>Prince of the world,</hi> is alſo the <hi>Father of lies.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the third, [that the <hi>Apologetical Narration</hi> was atteſted by the Authors only to paint out their own piety, but that it betrayes double dealing, and that their baniſhment was but pretended.] The end of that Apologie was only to quit themſelves of many fictions, falſhoods and ſcandals ſecretly diſperſed againſt them, wherein no<g ref="char:EOLhyphen"/>thing was mentioned, but in order to a juſt and neceſſary Vindication: therefore let none take with the left hand, what they offered with the right. And pray tell us how their Baniſhment becomes more pre<g ref="char:EOLhyphen"/>tended, than the reſt of Gods people which wandred out of the King<g ref="char:EOLhyphen"/>dome for their Conſcience ſake, to unknown habitations? while you and others warmed you ſelves with as much content under the ſun<g ref="char:EOLhyphen"/>ſhine of Antichriſtian Prelacie, as now under the Presbyterie: the templer of ſuch Profeſſors varies according to the conſtitution of the State where they live; they had rather ſhift Religion a hundred times, then their Climate once.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> To the fourth, [that the Apologiſts confeſſed Parochial congrega<g ref="char:EOLhyphen"/>tions to be true Churches.] I anſwer in Mr.
+<hi>Saltmarſh</hi> his words upon the ſame objection: <hi>You are not to prove what others confeſſe, or hold you to be, but what you are indeed, according to truth. Nor ſhall I con<g ref="char:EOLhyphen"/>tend with thoſe that hold you ſo, but with you that hold your ſelves ſo:</hi> as the Spirit to the Laodiceans,
+<hi>Thou ſayeſt thou art full, &amp;c. but behold thou art poor, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> To the fifth, [that the Apologiſts promiſed not to preach or print any thing, &amp;c.] But did they promiſe to ſit ſtill, and ſee a Govern<g ref="char:EOLhyphen"/>ment ſet up which they cannot allow of, and hear Perſecution preach<g ref="char:EOLhyphen"/>ed and endeavoured againſt all which approve not of that way? Doth not ſuch a courſe force them to it, unleſſe they will betray themſelves and the truth of God? For <hi>Zions</hi> ſake, we cannot
+<hi>hold our peace.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> To the ſixth, [that Mr. <hi>Philip Nye</hi> is a notable Independent-polititian, an Agent for the ſchiſmatical Church-way, and got away the writing from Mr. <hi>Calamy.</hi>] I ſay, Mr.
+<hi>Nye</hi> is better known by his ſound doctrine, and integrity of converſation, than to be blaſted by the pen of any: Not all your Ink can ſtain his Robes of innocence. This was the High-Prieſts ſtrain concerning our Saviour, <hi>We found this fellow perverting the people:</hi> And ſhall the ſervant expect better<note place="margin">
+                        <hi>Luk.</hi> 23. 2.</note> than his maſter? No, they ſaid ſo too of <hi>Paul; We found this man a peſtilent fellow, a mover of ſedition, &amp;c.</hi> Act. 24. 5.</p>
+                  <p>Touching the <hi>VVriting of agreement,</hi> wherefore was it made? was <pb n="7" facs="tcp:113714:6"/> it becauſe you doubted the ſtrength of that Building intended by you, when another Platform ſhould be offered? you were ſure, ye thought, of having the countenance of authority to your work, only it ſeems you were afraid it might be retarded upon more perfect diſcoveries by your Brethren, and therefore thought all would be ſure, if their mouths were ſealed up, and their hands manacled by a circumventing agreement. At that time when this agreement was made, it might be requiſite, in regard of the mutuall intereſt of both parties againſt the common enemy, and the neceſſity of laying aſide differences in Opi<g ref="char:EOLhyphen"/>nion for a time: But I hope Mr. <hi>Vicars</hi> will not ſay it was intended for a ſnare to the Brethren, that now when the War is drawn to a period, when a
+<hi>Government</hi> is erecting, pretending an abſolute conformity to the Word, which they cannot be perſwaded of, and minaces and per<g ref="char:EOLhyphen"/>ſecution denounced both in preſſe and pulpit againſt them, as here<g ref="char:EOLhyphen"/>ticks and ſchiſmaticks, if they ſubmit not thereto: that now (I ſay) they ſhould betray themſelves and the truth by ſilence. If this were the end of that agreement (as it ſeems to be) the obligation is un<g ref="char:EOLhyphen"/>lawfull and voyd, as being contrary to the intent of the Brethren, and further manifeſtation of the truth of God.</p>
+               </div>
+            </div>
+            <div type="point">
+               <head>Mr. <hi>VICARS.</hi>
+               </head>
+               <p>1.
+<q rend="margQuotes">That Independents did not ſo cry up the Parliaments power in matters of Religion heretofore, as now. 2. That a Book called the <hi>Peace-maker,</hi> ſayes, the Aſſembly of Divines have nothing to do therein, but ſo far only as the Parliament pleaſes to uſe, or refuſe them. 3. That Mr. <hi>Iohn Goodwin</hi> hath practiſed for his own factious ends theſe many years; and that Mr. <hi>Walwyn</hi> who whiſpered in Mr. <hi>Edwards</hi> his eare, is a pharaſaical whiſperer.
+4. That the author of the laſt <hi>warning to London,</hi> is an Independent.
+5. That Mr. <hi>Salt<g ref="char:EOLhyphen"/>marſh</hi> his <hi>Smoke in the Temple</hi> is foggy and choaking, and that Mr. <hi>Ley</hi> of the Aſſembly hath ſhewn him his failings: that his <hi>Groans for Liberty,</hi> are full of miſapplied paralels, and unſavoury compa<g ref="char:EOLhyphen"/>riſons: that his treatiſe of
+<hi>Free-grace</hi> is ſubtile and deceitfull, and very much dangerous drink of errors to be found therein, as Mr. <hi>Ga<g ref="char:EOLhyphen"/>taker</hi> ſayes. That Mr.
+<hi>Saltmarſh</hi> his exceptions at Mr. <hi>Edwards</hi> are injurious, becauſe he once ſpeak well of Mr. <hi>Edwards</hi> when he heard him preach.</q>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the firſt, [that Independents did not cry up the Parliaments power in matters of Religion heretofore, as now.] I ſay, ſhew us an <pb n="8" facs="tcp:113714:7"/> exact platform according to the will of Chriſt, and then we ſhall ſoon ſee who are to be impowered therein: in the mean time be not angry if we allow the Parliament chief power in the
+<hi>Government</hi> now claim<g ref="char:EOLhyphen"/>ed, which is meerly Prudential in the main parts of it, and ſo undeni<g ref="char:EOLhyphen"/>ably of Humane cogniſance.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Touching the ſecond, [that a Book called the <hi>Peace-maker,</hi> ſayes, the Aſſembly have nothing to do therein, but ſo far only as the Par<g ref="char:EOLhyphen"/>liament pleaſe.] I pray read the Ordinance which enabled them to ſit, and a clauſe in the late Declaration of the Commons, which ſayes they were called only to <hi>Adviſe</hi> of ſuch things, &amp;c.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the third [concerning Mr. <hi>Iohn Goodwin</hi> and Mr <hi>Walwyn</hi>] It is not enough to call men
+<hi>Factious</hi> and <hi>Phariſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cal,</hi> without evident demonſtrations;
+<hi>Let every mans work be proved,</hi> leſt while you en<g ref="char:EOLhyphen"/>deavour to picture out <hi>Independency,</hi> you draw a model of your own impudence and impiety.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> To the fourth, [that the Author of the
+<hi>laſt warning to London,</hi> is an Independent.] I obſerve, if there be any thing unſavoury abroad, it is preſently thrown in the faces (forſooth) of Independents, elſe (think they) the people will have too good an opinion of them, and we ſhall loſe our reputation. Oh, this ſelf-intereſt is the very fountain of all miſchief, when it ſtands in competition with mens conſciences in mat<g ref="char:EOLhyphen"/>ter of Religion and Reformation.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> To the fifth, [firſt, that Mr.
+<hi>Saltmarſh</hi> his <hi>Smoke, &amp;c.</hi> is foggy and choaking, wherein Mr. <hi>Ley</hi> hath ſhewn his failings] Indeed Mr. <hi>Ley</hi> hath ſtriven to render it choaking, by his confuſed and tumultuary Animadverſions, and to raiſe a fog in the Readers underſtanding, that they might not diſcern thoſe divine breathings of the Spirit, and beams of the Sun of righteouſneſſe: And all moderate men muſt needs ſay Mr.
+<hi>Ley</hi> hath ſhewn no failings but his own: their Books are a<g ref="char:EOLhyphen"/>broad, read, and pray for underſtanding; ſo may ye who were <hi>once darkneſſe,</hi> be <hi>light in the Lord.</hi>
+                  </p>
+                  <p>Secondly, [that his <hi>Groans for Liberty</hi> are full of miſapplied para<g ref="char:EOLhyphen"/>lels, and unſavoury compariſons.] Why then hath not this been made evident all this while? or why do not you do it now? I ſuppoſe thoſe <hi>Groans</hi> come ſo near, ſtrike ſo deep, that your conſciences can<g ref="char:EOLhyphen"/>not diſſemble, but that they were once your own. Remember your old condition, do as you would have been done to, have the ſame af<g ref="char:EOLhyphen"/>fections, the ſame meltings you had then, and have compaſſion to<g ref="char:EOLhyphen"/>wards your brethren: <hi>Put on, as the elect of God, holy and beloved, bowels of Mercy.</hi>
+                  </p>
+                  <p>
+                     <pb n="9" facs="tcp:113714:7"/>Thirdly, [that his Treatiſe of Free-grace is ſubtile, erronious, and deceitfull, as Mr. <hi>Gataker</hi> ſayes.] Too ſubtile indeed are his treatiſes to old men, or thoſe which have the old man in them, or have been infected with the old leven of outward diſpenſations and ſelf con<g ref="char:EOLhyphen"/>ceit. Mr. <hi>Saltmarſh</hi> ſpins too fine threads in Divinity, and is ſome<g ref="char:EOLhyphen"/>what too ſublime and ſpirituall for thoſe which take all in groſſe, and have not yet attained the more excellent way wherein my ſoul ſpeaks by experience, that of all writings yet extant in print, none layes down the precious doctrine of Free grace with ſuch power, plain<g ref="char:EOLhyphen"/>neſſe, evidence, and demonſtration of the Spirit, as that ſmall trea<g ref="char:EOLhyphen"/>tiſe written by Mr. <hi>Saltmarſh.</hi> Happy is he can make a right uſe of it.</p>
+                  <p>Fourthly, [that Mr <hi>Saltmarſh</hi> his exceptions at Mr.
+<hi>Edwards</hi> are injurious, becauſe he once ſpake well of him.] But if Mr. <hi>Saltmarſh</hi> have given Mr. <hi>Edwards</hi> a good report, is this fair requitall in M. <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> to traduce him ſo unchriſtianly in print? To ramble up here<g ref="char:EOLhyphen"/>ſies errours, and unwarrantable opinions (upon truſt) and then to ſet his name before them? was this well done? is he now, or M. <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> moſt injurious?</p>
+               </div>
+            </div>
+            <div type="point">
+               <head>Mr. <hi>VICARS.</hi>
+               </head>
+               <p>
+                  <q rend="margQuotes">1. That the Independents indeavour to make the Covenant a noſe of wax by their falſe Comments, for advance of their owne wicked ayms and ends. 2 That Dr. <hi>Homes</hi> will do nothing in his Pariſh, un<g ref="char:EOLhyphen"/>leſſe they will dance after his Independent pipe. 3. That Mr. <hi>Iohn Bachiler</hi> is an Independent brother: that Independents come near the Jeſuits, becauſe they would not joyn in a Petition againſt
+<hi>Com<g ref="char:EOLhyphen"/>miſſioners,</hi> to judge of ſins not enumerated in the Ordinance for the Lords Supper. 4. That Independents have a fine back doore of e<g ref="char:EOLhyphen"/>vaſion againſt ſuch as cenſure them, becauſe of their pretence of new<g ref="char:EOLhyphen"/>lights, which is like the popiſh Equivocation.</q>
+               </p>
+               <div type="answer">
+                  <head>Anſw.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the firſt [that the Independents indeavour to make the Cove<g ref="char:EOLhyphen"/>nant a noſe of wax, &amp;c.] Produce thoſe falſe Comments, elſe forbear to charge them upon us: but if there were any, you needed not to feare them; for the houſe of Commons have aſſured you in their late excellent <hi>Declaration,</hi> that no forced conſtructions ſhall be admitted, or put upon the people of this Kingdom, and I am confident all Inde<g ref="char:EOLhyphen"/>pendents (as you call them) will ſubſcribe to this particular.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> To the ſecond [that Dr. <hi>Homes</hi> will do nothing in his pariſh, unleſs they dance after his Independent pipe.] I muſt confeſſe you have a <pb n="10" facs="tcp:113714:8"/> large formall Story of the Doctor, as if you had compared Notes with reverend Mr. <hi>Edwards:</hi> have you nothing elſe to do, but to print over the ſecond part of <hi>Eſop's Fables?</hi> and fill the Preſſe with tales of a Cock and a Bull? Give me leave (Sir) to ſtroak your gravity; you have the Beard (I muſt confeſſe) though not the Breaſt plate of <hi>Aaron,</hi> and may paſſe for a man of diſcretion by your looks, though not by your works: for were your cauſe ever ſo good, it can never be worſe defended, than by rallying up ſlanders and accuſations a<g ref="char:EOLhyphen"/>gainſt the Brethren.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the third, [that Mr. <hi>Bachiler</hi> is an Independent brother, and that Independents come near the Ieſuits.] And its probable (if you go on as you begin) the Lawes againſt Prieſts and Jeſuites may be pleaded againſt them, the great Whore muſt be arrayed with Crim<g ref="char:EOLhyphen"/>ſon and Scarlet, the great Dragon alſo is red: If ye are of that Ser<g ref="char:EOLhyphen"/>pentine diſpoſition, fill ye up the meaſure of your Fathers the Biſhops, that upon you may come all the righteous blood? What can we ex<g ref="char:EOLhyphen"/>pect leſſe, when ſuch bitter invectives are daily vented, to turn the fury of the unſtable multitude againſt the Brethren?</p>
+                  <p>As touching Commiſſioners, pray be not angry, they are pretty coolers for Ambition; the Parliament will have it ſo, and good rea<g ref="char:EOLhyphen"/>ſon they ſhould have a ſhare, till the Divine Right be proved. And for Mr. <hi>Bachiler,</hi> he hath better learned Chriſt, then to withhold truth in unrighteouſneſſe, or ſtifle it at the Preſſe, at the birth, as you deſire; juſt as <hi>Pharaoh</hi> would have had the godly Midwives to de<g ref="char:EOLhyphen"/>ſtroy all the Males of Iſrael.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> To the fourth, [that Independents have a fine door of evaſion, be<g ref="char:EOLhyphen"/>cauſe of their New-lights, which are like the popiſh equivocation.] Now I perceive you are in the very gall of bitterneſſe, and bond of, iniquity, who contend againſt the truth. Is there not a paſſing from grace to grace, from glory to glory in Goſpel knowledge? Doth God reveale all at once? have we attained perfection? are we ſo well acquainted already with Goſpel-myſteries, and Goſpel government, that we need look after no further diſcoveries in the hidden things of God? We muſt not (like
+<hi>Hercules</hi>) ſet up our Pillars with a <hi>Nil ul<g ref="char:EOLhyphen"/>tra,</hi> rather
+<hi>Plus ultra</hi> ſhould be a Chriſtians Motto.</p>
+                  <p>How dare you then call it a Deceitfull trick of impudent Impo<g ref="char:EOLhyphen"/>ſtors to look after more light? we ſhould all be Seekers in this kinde: Had former years nuzled themſelves in a contentation in that light they then had, where then had been this light we now enjoy toward
+<pb n="11" facs="tcp:113714:8"/> a Reformation? It is not long ſince we were under the darkneſſe of Antichriſtian Prelacy, and being but newly peept forth, the vaile not yet quite off our eyes, ſhall we take upon us to ſee all immediately, as if we had bin in the Mount with God, &amp; brought down the patern? But if that light which is in us be darkneſſe, how great is that dark<g ref="char:EOLhyphen"/>neſſe? And as the Apoſtle ſayes, if any man think he knoweth any thing, he knoweth nothing yet as he ought to know, 1 <hi>Cor.</hi> 8 2.</p>
+                  <p>Take heed therefore leſt while ye rare againſt new-lights ye work deſpight to the Spirit of God. To quench it in a mans ſelf is a great ſin, but to labour to quench it in others, to blaſpheme it, and cauſe it to be blaſphemed by others, is that ſin which (our
+<hi>Saviour</hi> ſayes) ſhall never be forgiven.</p>
+                  <p>
+                     <hi>If there be therefore any conſolation in Chriſt, if any comfort of love, if any fellowſhip of the Spirit, if any bowels and mer<g ref="char:EOLhyphen"/>cies, fulfill ye my joy, that ye be like minded, having the ſame love, being of one accord, of one minde. Let nothing be done through ſtrife or vainglory, but in lowlineſſe of minde, let each eſteem others better then themſelves. Look not every man on his own things, but every man alſo on the things of others,</hi> Phil. 2. 1, 2, 3, 4.</p>
+                  <p>
+                     <hi>Be kindly affectioned one to another with brotherly love, in honour preferring one another. Minde not high things, but condeſcend to men of low eſtate. Be not wiſe in your own con<g ref="char:EOLhyphen"/>ceits. If it be poſsible, as much as lieth in you, live peaceably with all men,</hi> Rom. 12. 10. 16.
+18.</p>
+                  <p>
+                     <hi>For other foundation can no</hi>
+                     <note n="a" place="margin">1 <hi>Cor.</hi> 3. 11.</note> 
+                     <hi>man lay, then that is laid, which is Ieſus Chriſt. But when ye ſin ſo againſt the brethren, and wound their weak conſcience,</hi>
+                     <note n="b" place="margin">1 <hi>Cor.</hi> 8. 12.</note> 
+                     <hi>ye ſin againſt Chriſt. Conſcience, I ſay, not thine own, but of the others, for why is my</hi>
+                     <note n="c" place="margin">1 <hi>Cor.</hi> 10 29.</note>
+                     <hi>liberty judged of another mans conſcience? Think not of men above that which is written, that no one of you be puffed up</hi>
+                     <note n="d" place="margin">1 <hi>Cor.</hi> 4. 7.</note> 
+                     <hi>for one againſt another. Let no man deceive himſelfe, if any man among you ſeem to be wiſe in this world, let him be<g ref="char:EOLhyphen"/>come</hi>
+                     <note n="e" place="margin">1 <hi>Cor.</hi> 3. 18.</note> 
+                     <hi>a foole, that he may be wiſe; for the wiſdome of this world is fooliſhneſſe with God. But he that is ſpirituall judgeth
+<pb n="12" facs="tcp:113714:9"/> all things, yet he himſelf is judged of no man,</hi>
+                     <note n="f" place="margin">1 <hi>Cor.</hi> 2. 15.</note> 
+                     <hi>for who hath known the minde of the Lord that he may inſtruct him? And what agreement hath the temple of God with Idols? For ye are the temple of the living God, as God hath ſaid, I will dwell in them, and walk in them, and I will be their God, and they ſhall be my people.</hi>
+                     <note n="g" place="margin">1 <hi>Cor.</hi> 6. 16, 17, 18.</note>
+                     <hi>Wherefore come out from among them, and be ye ſeparate, ſaith the Lord, and touch not the unclean thing, and I will receive you. And will be a father unto you, and ye ſhall be my ſons and daughters, ſaith the Lord Almighty.</hi> Con<g ref="char:EOLhyphen"/>ſider, and the Lord give you <hi>underſtanding</hi> in all things.</p>
+                  <p>As for the <hi>Quaere's</hi> at the latter end of your book, propounded (as you think) by <hi>Monſier du Moulin,</hi> Profeſſor of Divinity in the Uni<g ref="char:EOLhyphen"/>verſity of <hi>Sedan</hi> in France, I ſhall ſay no more but this, that the thing in controverſie is begg'd, thoſe
+<hi>Quaere's</hi> being founded upon a meer prudenciall government, ſuppoſed allowable in the Church of Chriſt, denied by us, but not proved by him, and ſo thoſe <hi>Quaere's</hi> fall of themſelves.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113714:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
